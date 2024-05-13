@@ -1,5 +1,5 @@
 # flight-delay-predictor
-> Predicting if a flight delay wil be longer than 15 minutes based on weather data and departure airport. 
+> Predicting if a flight delay will be longer than 15 minutes based on weather data and departure airport. 
 
 ## Table of Contents
 * [General Info](#general-information)
